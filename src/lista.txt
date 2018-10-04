@@ -1,0 +1,15 @@
+// restruturar construçaos dos squares
+
+// cada square apresente o id
+
+// habilitar cada square no click (onclick)
+
+criar logica do jogo. 
+    - definir 2 jogadores
+    - quem joga
+    
+    - fim de jogo
+        - jogo preenchido
+        - existe vencedor 
+
+
