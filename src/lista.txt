@@ -1,4 +1,4 @@
-// restruturar construçaos dos squares
+// restruturar construçao dos squares
 
 // cada square apresente o id
 
